@@ -48,3 +48,4 @@ To test usability and functionality, we created a **Google Forms-based simulatio
 
 trIAge empowers healthcare institutions to optimize emergency response through intelligent, data-driven triage decisions.
 
+📊 [Download the project presentation](https://www.canva.com/design/DAGXsipJG8s/kWYhsK0xrabG1XtUjTpllg/edit?utm_content=DAGXsipJG8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
